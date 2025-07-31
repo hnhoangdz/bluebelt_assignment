@@ -124,21 +124,31 @@ ENVIRONMENT=development
 DEBUG=true
 HOST=0.0.0.0
 PORT=8000
+LOG_LEVEL=INFO
 
 # Database Configuration
-DATABASE_URL=postgresql://dextrends_user:dextrends_password@localhost:5432/dextrends_chatbot
+DATABASE_URL=postgresql://postgres:postgres@postgres:5432/dextrends
 
 # Redis Configuration
-REDIS_URL=redis://localhost:6379
+REDIS_URL=redis://redis:6379
+
+# Qdrant Configuration
+QDRANT_URL=http://qdrant:6333
 
 # Security
-SECRET_KEY=your-super-secret-key-change-this-in-production
+SECRET_KEY=test-abcxyz-123456
 
 # OpenAI Configuration
-OPENAI_API_KEY=your-openai-api-key-here
+OPENAI_API_KEY=SET_IT
 
-# Mem0 Configuration (Optional)
-MEM0_API_KEY=your-mem0-api-key-here
+# Mem0 Configuration
+MEM0_API_KEY=SET_IT
+
+# Docker Compose Variables (not used by backend config)
+POSTGRES_DB=dextrends
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+REACT_APP_API_URL=http://localhost:8000
 ```
 
 ### 3. Launch Services
