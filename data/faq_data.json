@@ -1,0 +1,107 @@
+[
+  {
+    "id": "faq_001",
+    "category": "General",
+    "question": "What is Dextrends and what services do we offer?",
+    "answer": "Dextrends is a leading technology company specializing in digital financial services and blockchain solutions. We offer comprehensive services including digital payment solutions, blockchain asset management, smart contract development, DeFi integration, CBDC solutions, cryptocurrency trading platforms, and asset tokenization services. Our mission is to bridge traditional finance with cutting-edge blockchain technology.",
+    "keywords": ["company", "services", "about", "what is", "overview"]
+  },
+  {
+    "id": "faq_002",
+    "category": "Security",
+    "question": "How secure are Dextrends' blockchain and digital payment solutions?",
+    "answer": "Security is our top priority. We implement bank-level security measures including multi-signature cold storage wallets, institutional-grade security protocols, PCI DSS compliance, advanced fraud detection, and 24/7 monitoring. All our smart contracts undergo comprehensive security audits, and we maintain SOC 2 Type II compliance. Our infrastructure uses end-to-end encryption and follows industry best practices for data protection.",
+    "keywords": ["security", "safe", "protection", "encryption", "compliance", "audit"]
+  },
+  {
+    "id": "faq_003",
+    "category": "Pricing",
+    "question": "What are the pricing models for Dextrends services?",
+    "answer": "Our pricing varies by service: Digital payments start at 1.5% per transaction, identity verification at $2.50 per check, smart contract development from $15,000 per project, and asset tokenization setup from $25,000. We offer competitive rates with transparent pricing and no hidden fees. Enterprise customers can benefit from volume discounts and custom pricing packages. Contact our sales team for detailed quotes.",
+    "keywords": ["pricing", "cost", "fees", "rates", "charges", "payment", "price"]
+  },
+  {
+    "id": "faq_004",
+    "category": "Integration",
+    "question": "How easy is it to integrate Dextrends services with existing systems?",
+    "answer": "Integration is designed to be seamless with our API-first architecture. We provide comprehensive RESTful APIs, detailed documentation, SDKs for popular programming languages, and dedicated integration support. Most integrations can be completed within 2-4 weeks. Our technical team provides hands-on assistance throughout the integration process, including testing and go-live support.",
+    "keywords": ["integration", "API", "connect", "setup", "implementation", "technical"]
+  },
+  {
+    "id": "faq_005",
+    "category": "Compliance",
+    "question": "How does Dextrends ensure regulatory compliance?",
+    "answer": "We maintain strict compliance with global financial regulations including KYC, AML, GDPR, and local financial authority requirements. Our compliance team continuously monitors regulatory changes and updates our systems accordingly. We provide automated compliance reporting, audit trails, and work closely with legal experts to ensure all services meet regulatory standards in each jurisdiction we operate.",
+    "keywords": ["compliance", "regulatory", "legal", "KYC", "AML", "GDPR", "regulation"]
+  },
+  {
+    "id": "faq_006",
+    "category": "Blockchain",
+    "question": "Which blockchain networks does Dextrends support?",
+    "answer": "We support major blockchain networks including Ethereum, Bitcoin, Binance Smart Chain, Polygon, Solana, Avalanche, and Cardano. Our multi-chain approach ensures flexibility and optimization for different use cases. We continuously evaluate and integrate new blockchain networks based on client needs and market demand. Our infrastructure is designed to be blockchain-agnostic for maximum compatibility.",
+    "keywords": ["blockchain", "networks", "chains", "ethereum", "bitcoin", "multi-chain", "support"]
+  },
+  {
+    "id": "faq_007",
+    "category": "DeFi",
+    "question": "What DeFi protocols can I access through Dextrends?",
+    "answer": "Our DeFi integration platform provides access to leading protocols including Uniswap, Compound, Aave, MakerDAO, Curve, Balancer, and Yearn Finance. We offer liquidity aggregation, yield farming optimization, and automated portfolio rebalancing. All DeFi interactions are conducted through our institutional-grade security framework with comprehensive risk management tools.",
+    "keywords": ["DeFi", "protocols", "yield", "liquidity", "farming", "uniswap", "compound", "aave"]
+  },
+  {
+    "id": "faq_008",
+    "category": "Support",
+    "question": "What kind of customer support does Dextrends provide?",
+    "answer": "We offer 24/7 customer support through multiple channels including phone, email, live chat, and dedicated account managers for enterprise clients. Our support team includes blockchain experts, developers, and compliance specialists. We provide comprehensive onboarding, training materials, technical documentation, and ongoing consultation to ensure successful implementation and operation of our services.",
+    "keywords": ["support", "help", "customer service", "assistance", "contact", "24/7"]
+  },
+  {
+    "id": "faq_009",
+    "category": "Digital Payments",
+    "question": "What payment methods and currencies does Dextrends support?",
+    "answer": "Our digital payment solutions support over 150 currencies including major fiat currencies (USD, EUR, GBP, JPY) and popular cryptocurrencies (BTC, ETH, USDC, USDT). We accept various payment methods including credit/debit cards, bank transfers, digital wallets, and cryptocurrency payments. Real-time currency conversion and multi-currency settlement are available with competitive exchange rates.",
+    "keywords": ["payment methods", "currencies", "fiat", "cryptocurrency", "USD", "EUR", "BTC", "ETH"]
+  },
+  {
+    "id": "faq_010",
+    "category": "Asset Management",
+    "question": "How does Dextrends protect and store digital assets?",
+    "answer": "We use institutional-grade custody solutions with multi-signature cold storage wallets for maximum security. Assets are stored across geographically distributed secure facilities with bank-level physical security. We maintain comprehensive insurance coverage and implement strict access controls. Hot wallets for operational needs use advanced encryption and multi-factor authentication with minimal exposure limits.",
+    "keywords": ["asset storage", "custody", "cold storage", "security", "insurance", "wallet", "protection"]
+  },
+  {
+    "id": "faq_011",
+    "category": "Smart Contracts",
+    "question": "What is included in Dextrends smart contract development services?",
+    "answer": "Our smart contract services include requirement analysis, architecture design, coding, comprehensive testing, security auditing, gas optimization, deployment, and post-deployment support. We provide upgradeable contract patterns, integration with existing systems, and detailed documentation. All contracts undergo rigorous security audits and are optimized for cost-effectiveness and performance.",
+    "keywords": ["smart contracts", "development", "audit", "testing", "deployment", "gas optimization"]
+  },
+  {
+    "id": "faq_012",
+    "category": "Tokenization",
+    "question": "What types of assets can be tokenized through Dextrends?",
+    "answer": "We can tokenize various asset classes including real estate, commodities, art and collectibles, private equity, debt instruments, intellectual property, and infrastructure projects. Our platform handles asset valuation, legal structuring, smart contract creation, and regulatory compliance. We support both fungible and non-fungible tokens with fractional ownership capabilities.",
+    "keywords": ["tokenization", "assets", "real estate", "commodities", "art", "equity", "fractional ownership"]
+  },
+  {
+    "id": "faq_013",
+    "category": "CBDC",
+    "question": "How can central banks implement CBDC with Dextrends solutions?",
+    "answer": "Our CBDC solutions provide complete infrastructure including scalable blockchain architecture, digital wallet ecosystems, payment rails, and regulatory frameworks. We support both retail and wholesale CBDC implementations with offline payment capabilities, privacy features, and monetary policy tools. Our team works closely with central banks to customize solutions based on specific national requirements and regulatory frameworks.",
+    "keywords": ["CBDC", "central bank", "digital currency", "government", "monetary policy", "implementation"]
+  },
+  {
+    "id": "faq_014",
+    "category": "Trading",
+    "question": "What trading features are available on Dextrends cryptocurrency platform?",
+    "answer": "Our trading platform offers advanced order types (market, limit, stop-loss, iceberg), high-frequency trading support, portfolio management tools, risk controls, market making capabilities, and API access. We provide deep liquidity, low latency execution, real-time market data, and comprehensive reporting. The platform supports both spot and derivatives trading with institutional-grade security.",
+    "keywords": ["trading", "cryptocurrency", "orders", "portfolio", "liquidity", "API", "derivatives", "market data"]
+  },
+  {
+    "id": "faq_015",
+    "category": "Identity Verification",
+    "question": "How does Dextrends identity verification work?",
+    "answer": "Our KYC/AML platform uses AI-powered document verification, biometric authentication, and real-time risk scoring. The system automatically verifies identity documents, performs liveness detection, screens against global watchlists, and generates compliance reports. Processing typically takes 2-5 minutes with a 99.5% accuracy rate. We support over 200 countries and 6,000+ document types.",
+    "keywords": ["identity verification", "KYC", "AML", "biometric", "documents", "AI", "compliance", "accuracy"]
+  }
+]

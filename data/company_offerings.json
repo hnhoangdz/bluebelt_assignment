@@ -1,0 +1,261 @@
+{
+  "company_info": {
+    "name": "Dextrends",
+    "description": "Leading technology company specializing in digital financial services and blockchain solutions",
+    "mission": "Empowering businesses and individuals with cutting-edge financial technology and blockchain innovations",
+    "established": "2018",
+    "headquarters": "Singapore",
+    "global_presence": ["Singapore", "Hong Kong", "Dubai", "London", "New York"],
+    "expertise": ["Digital Financial Services", "Blockchain Technology", "DeFi Solutions", "Asset Tokenization", "Smart Contracts"]
+  },
+  "services": [
+  {
+    "id": "service_001",
+    "title": "Digital Payment Solutions",
+    "category": "Payment Services",
+    "description": "Comprehensive digital payment platform offering secure, fast, and cost-effective transaction processing for businesses of all sizes. Features include multi-currency support, real-time settlement, fraud detection, and seamless API integration.",
+    "features": [
+      "Multi-currency payment processing",
+      "Real-time transaction settlement",
+      "Advanced fraud detection and prevention",
+      "RESTful API integration",
+      "PCI DSS compliance",
+      "Mobile wallet integration",
+      "Recurring payment support",
+      "Detailed transaction analytics"
+    ],
+    "benefits": [
+      "Reduce payment processing costs by up to 40%",
+      "Improve cash flow with instant settlements",
+      "Enhanced security with advanced fraud protection",
+      "Seamless integration with existing systems",
+      "24/7 customer support"
+    ],
+    "use_cases": [
+      "E-commerce platforms",
+      "Subscription services",
+      "Mobile applications",
+      "Point-of-sale systems",
+      "B2B marketplaces"
+    ],
+    "pricing": "Competitive transaction fees starting at 1.5% per transaction"
+  },
+  {
+    "id": "service_002",
+    "title": "Blockchain Asset Management",
+    "category": "Blockchain Services",
+    "description": "Enterprise-grade blockchain asset management platform providing secure custody, trading, and portfolio management for digital assets including cryptocurrencies, NFTs, and tokenized securities.",
+    "features": [
+      "Multi-signature cold storage wallets",
+      "Institutional-grade security protocols",
+      "Real-time portfolio tracking",
+      "Automated compliance reporting",
+      "DeFi integration capabilities",
+      "Cross-chain asset support",
+      "Risk management tools",
+      "Audit trail and reporting"
+    ],
+    "benefits": [
+      "Bank-level security for digital assets",
+      "Streamlined compliance processes",
+      "Reduced operational complexity",
+      "24/7 monitoring and support",
+      "Regulatory compliance assistance"
+    ],
+    "use_cases": [
+      "Institutional investors",
+      "Hedge funds",
+      "Family offices",
+      "Cryptocurrency exchanges",
+      "Corporate treasury management"
+    ],
+    "pricing": "Custom pricing based on assets under management"
+  },
+  {
+    "id": "service_003",
+    "title": "Smart Contract Development",
+    "category": "Development Services",
+    "description": "Professional smart contract development and auditing services for Ethereum, Binance Smart Chain, Polygon, and other major blockchain networks. Includes custom DApp development and blockchain integration.",
+    "features": [
+      "Multi-chain smart contract development",
+      "Security auditing and testing",
+      "Gas optimization",
+      "Upgradeable contract patterns",
+      "Integration with existing systems",
+      "Comprehensive documentation",
+      "Post-deployment support",
+      "Code verification services"
+    ],
+    "benefits": [
+      "Reduced development time and costs",
+      "Enhanced security through professional audits",
+      "Optimized gas efficiency",
+      "Expert blockchain consulting",
+      "Ongoing technical support"
+    ],
+    "use_cases": [
+      "DeFi protocols",
+      "NFT marketplaces",
+      "Supply chain tracking",
+      "Voting systems",
+      "Tokenization platforms"
+    ],
+    "pricing": "Project-based pricing starting at $15,000"
+  },
+  {
+    "id": "service_004",
+    "title": "Digital Identity Verification",
+    "category": "Identity Services",
+    "description": "Advanced KYC/AML compliance platform using AI-powered identity verification, document authentication, and risk assessment for financial institutions and fintech companies.",
+    "features": [
+      "AI-powered document verification",
+      "Biometric authentication",
+      "Real-time risk scoring",
+      "Automated AML screening",
+      "Global watchlist monitoring",
+      "Compliance reporting dashboard",
+      "API-first architecture",
+      "Multi-language support"
+    ],
+    "benefits": [
+      "Reduce onboarding time by 80%",
+      "Minimize compliance risks",
+      "Improve customer experience",
+      "Lower operational costs",
+      "Ensure regulatory compliance"
+    ],
+    "use_cases": [
+      "Digital banks",
+      "Cryptocurrency exchanges",
+      "Lending platforms",
+      "Investment services",
+      "Insurance companies"
+    ],
+    "pricing": "Per verification pricing starting at $2.50 per check"
+  },
+  {
+    "id": "service_005",
+    "title": "DeFi Integration Platform",
+    "category": "DeFi Services",
+    "description": "Comprehensive DeFi integration platform enabling traditional financial institutions to access decentralized finance protocols safely and compliantly through institutional-grade infrastructure.",
+    "features": [
+      "Multi-protocol DeFi access",
+      "Institutional custody solutions",
+      "Risk management framework",
+      "Liquidity aggregation",
+      "Yield farming optimization",
+      "Automated portfolio rebalancing",
+      "Regulatory compliance tools",
+      "Real-time market data"
+    ],
+    "benefits": [
+      "Access to higher yields than traditional finance",
+      "Diversified investment opportunities",
+      "Automated portfolio management",
+      "Reduced counterparty risk",
+      "Transparent and auditable transactions"
+    ],
+    "use_cases": [
+      "Traditional banks",
+      "Asset management firms",
+      "Pension funds",
+      "Insurance companies",
+      "High-net-worth individuals"
+    ],
+    "pricing": "Management fee of 0.5% - 2% annually depending on services"
+  },
+  {
+    "id": "service_006",
+    "title": "Central Bank Digital Currency (CBDC) Solutions",
+    "category": "Government Services",
+    "description": "Complete CBDC infrastructure solutions for central banks and government institutions, including wallet systems, payment rails, and regulatory frameworks for digital currency implementation.",
+    "features": [
+      "Scalable blockchain infrastructure",
+      "Digital wallet ecosystem",
+      "Offline payment capabilities",
+      "Privacy-preserving transactions",
+      "Monetary policy tools",
+      "Cross-border payment support",
+      "Merchant integration APIs",
+      "Comprehensive analytics dashboard"
+    ],
+    "benefits": [
+      "Enhanced monetary policy control",
+      "Reduced cash handling costs",
+      "Improved financial inclusion",
+      "Real-time economic visibility",
+      "Streamlined cross-border payments"
+    ],
+    "use_cases": [
+      "Central banks",
+      "Government treasuries",
+      "Financial regulators",
+      "Public sector organizations",
+      "International development agencies"
+    ],
+    "pricing": "Custom enterprise pricing for government institutions"
+  },
+  {
+    "id": "service_007",
+    "title": "Cryptocurrency Trading Platform",
+    "category": "Trading Services",
+    "description": "Professional-grade cryptocurrency trading platform with advanced order types, portfolio management tools, and institutional-level security for professional traders and financial institutions.",
+    "features": [
+      "Advanced order types (limit, stop, iceberg)",
+      "High-frequency trading support",
+      "Portfolio management tools",
+      "Risk management controls",
+      "Market making capabilities",
+      "API trading access",
+      "Institutional custody integration",
+      "Real-time market data feeds"
+    ],
+    "benefits": [
+      "Deep liquidity access",
+      "Low latency execution",
+      "Professional trading tools",
+      "Institutional-grade security",
+      "Comprehensive reporting"
+    ],
+    "use_cases": [
+      "Professional traders",
+      "Hedge funds",
+      "Market makers",
+      "Proprietary trading firms",
+      "Financial advisors"
+    ],
+    "pricing": "Tiered fee structure from 0.1% to 0.5% per trade"
+  },
+  {
+    "id": "service_008",
+    "title": "Tokenization Services",
+    "category": "Asset Tokenization",
+    "description": "End-to-end asset tokenization platform for converting real-world assets into blockchain tokens, including real estate, commodities, art, and securities with full regulatory compliance.",
+    "features": [
+      "Asset valuation and verification",
+      "Smart contract creation",
+      "Fractional ownership support",
+      "Secondary market integration",
+      "Compliance automation",
+      "Investor portal",
+      "Distribution management",
+      "Liquidity solutions"
+    ],
+    "benefits": [
+      "Unlock asset liquidity",
+      "Enable fractional ownership",
+      "Reduce transaction costs",
+      "Improve market accessibility",
+      "Streamline compliance processes"
+    ],
+    "use_cases": [
+      "Real estate investment",
+      "Art and collectibles",
+      "Private equity",
+      "Commodity trading",
+      "Infrastructure projects"
+    ],
+    "pricing": "Setup fee starting at $25,000 plus ongoing management fees"
+  }
+  ]
+}
